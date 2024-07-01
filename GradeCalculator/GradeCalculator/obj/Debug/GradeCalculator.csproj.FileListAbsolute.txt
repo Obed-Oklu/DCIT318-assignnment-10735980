@@ -1,0 +1,7 @@
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojAssemblyReference.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
