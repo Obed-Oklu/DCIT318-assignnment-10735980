@@ -1,0 +1,7 @@
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\bin\Debug\TriangleIdentifier.exe.config
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\bin\Debug\TriangleIdentifier.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\bin\Debug\TriangleIdentifier.pdb
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\obj\Debug\TriangleIdentifier.csprojAssemblyReference.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\obj\Debug\TriangleIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\obj\Debug\TriangleIdentifier.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TriangleIdentifier\TriangleIdentifier\obj\Debug\TriangleIdentifier.pdb
