@@ -1,0 +1,7 @@
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\bin\Debug\TicketPricing.exe.config
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\bin\Debug\TicketPricing.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\bin\Debug\TicketPricing.pdb
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\obj\Debug\TicketPricing.csprojAssemblyReference.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\obj\Debug\TicketPricing.csproj.CoreCompileInputs.cache
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\obj\Debug\TicketPricing.exe
+C:\Users\OBED\CODE\DCIT318-assignnment-10735980\TicketPricing\TicketPricing\obj\Debug\TicketPricing.pdb
